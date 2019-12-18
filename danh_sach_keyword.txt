@@ -1,0 +1,29 @@
+hardware
+network
+logic
+mathematics
+probability
+programming
+operating systems
+concurrency (nhat quan)
+design
+algorithms
+data structures
+program design
+writing
+communication 
+combinatorics(toan hoc to hop)
+calculus (giai tich)
+algebra (dai so)
+cryptography (mat ma)
+databases
+computer graphics
+artificial intelligence
+finance
+management
+marketing
+statistics (thong ke)
+biology (sinh hoc)
+chemistry
+physics
+compiler
